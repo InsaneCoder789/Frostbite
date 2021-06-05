@@ -1,0 +1,14 @@
+{
+  "name": "frostnew",
+  "version": "1.0.0",
+  "description": "A Rewrite Of A Extremely Cool Bot Named Frostbite ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
