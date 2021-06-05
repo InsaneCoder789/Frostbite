@@ -1,0 +1,11 @@
+{
+    "prefix": "f!", 
+    "token": "ODM0MjkzNTIxNDMwMDg1NjMy.YH-yYw.jpgdaPymEVOpovF2081Pt5NeAYI", 
+    "owners": ["707166340800315414" , "400857098121904149"], 
+    "defaultPerms": ["SEND_MESSAGES", "VIEW_CHANNEL", "SPEAK"],
+    "mongo_url": "mongodb+srv://Insanecoder789:Rahul@5111@cluster0.47kul.mongodb.net/test", 
+    "muted_role_id": "843362158456995851", 
+    "suggest_channel_id": "843356051113639946",
+    "welcome_channel_id": "846683568821633024",  
+    "logs_channel_name": "843356020465860609" 
+}
