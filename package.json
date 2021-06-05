@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InsaneCoder789/Frostbite-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/InsaneCoder789/Frostbite-1/issues"
+  },
+  "homepage": "https://github.com/InsaneCoder789/Frostbite-1#readme"
 }
