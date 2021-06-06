@@ -1,7 +1,19 @@
-Hello Everyone 
-My Name is Rohan Chatterjee And I am A Discord.js Bot Developer I have Uploaded My First Ever Bot Named Frostbite 
+# <div align="center">**_FrostBite_**
+    
+<div align="center">
+    
 
-Please Do Contribute to Make It More Pog And Feel Free To Use It 
 
-Its A Moderation and A Fun Bot With An Advanced Command Handler And Many Fun Commands As well Do Check Out And If You Love My Project Do consider Joining My Discord Server
-Link :- https://discord.gg/ppGBYSeSqb
+Frostbite Is A Discord Bot Made By [Rohan Chatterjee](https://github.com/InsaneCoder789) For Multi Purpose Server's 
+
+The Bot Uses:
+
+[`Discord.js`](discord.js.org/) - Used To Interact With Discord API Very Easily.
+
+[`Node.js`](https://nodejs.org/) And [`Yarn`](https://classic.yarnpkg.com/en/) - Runtime Engine For Running The Bot.
+
+[`Some Random API`](https://some-random-api.ml/) - For The Animal Photos And Facts Commands.
+
+[`NekoBot API`](https://docs.nekobot.xyz) - For `Trump Tweet` Image Command.
+
+[`Mongo DB Atlas`](https://www.mongodb.com/cloud/atlas) - For Storing Warns Of Members.
