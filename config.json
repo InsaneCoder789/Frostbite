@@ -1,11 +1,11 @@
 {
-    "prefix": "f!", 
-    "token": "ODM0MjkzNTIxNDMwMDg1NjMy.YH-yYw.jpgdaPymEVOpovF2081Pt5NeAYI", 
-    "owners": ["707166340800315414" , "400857098121904149"], 
-    "defaultPerms": ["SEND_MESSAGES", "VIEW_CHANNEL", "SPEAK"],
-    "mongo_url": "mongodb+srv://Insanecoder789:Rahul@5111@cluster0.47kul.mongodb.net/test", 
+    "prefix": "Your Bot Prefix", // Your Bot Prefix 
+    "token": "Your Bot Token ",// Bot Token  
+    "owners": [""], //Your DIscord Id. If Two Or More Seperate it with a "," and done
+    "defaultPerms": ["SEND_MESSAGES", "VIEW_CHANNEL", "SPEAK"],//Basic Permissions To Your Bot 
+    "mongo_url": "Your Mongo Url For Storing Warns ",// Paste Your Mongo DB URL for The Database To Store ! 
     "muted_role_id": "843362158456995851", 
-    "suggest_channel_id": "843356051113639946",
-    "welcome_channel_id": "846683568821633024",  
-    "logs_channel_name": "843356020465860609" 
+    "suggest_channel_id": "843356051113639946",// Change It With Your Channel ID 
+    "welcome_channel_id": "846683568821633024",  // Change It With Your Channel ID 
+    "logs_channel_name": "843356020465860609" // Change It With Your Channel ID 
 }
