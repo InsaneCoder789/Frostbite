@@ -48,7 +48,9 @@ module.exports = class extends Command {
 * Guess The Number - *You Have To Guess The Number Which The Bot Is Thinking..*
 * Meme - *Provides You A Nice Dank Meme (I Guess...)*
 * Trump Tweet - *Displays A Picture With A Custom Tweet From Donald Trump With The Message The Author Provided.* 
-
+* Say - * Makes The Bot Say Anything you Want *
+* Deepfry - Changes Your PFP into a Roasted Steak!
+* Gun - Changes Your PFP into a Gangsta !!
 ### Information Commands
 
 * Avatar - *Provides The User Avatar For Mentioned User Or Command Author*
@@ -73,6 +75,7 @@ module.exports = class extends Command {
 * Add Role - *Command Used To Add Roles To The Mentioned User.
 * Lock Channel - *Command Used To Lock The Channel This Command Was Run In*
 * Unlock Channel - *Command Used To Unlock The Channel This Command Was Run In*
+* Nuke - Helps You To Nuke a Specific Channel so That You Restart The Channel 
 
 ### Owner Commands
 
@@ -85,3 +88,5 @@ module.exports = class extends Command {
 * Ping - *Shows The Ping Of The Bot*
 * Uptime - *Shows The Uptime Of The Bot*
 * Suggest - *Command Used To Give Suggestions*
+* Support - Support Server For the Main Bot Project 
+
