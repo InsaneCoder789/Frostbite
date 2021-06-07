@@ -1,7 +1,7 @@
 # <div align="center">**_FrostBite_**
     
 <div align="center">
-    <img src="https://github.com/InsaneCoder789/Frostbite-1/blob/master/Frostbite.jpeg" height="474px" width="355px" />
+    <img src="https://github.com/InsaneCoder789/Frostbite-1/blob/master/Frostbite.jpeg" height="355px" width="474px" />
 
 </div>
     
