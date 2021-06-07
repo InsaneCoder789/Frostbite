@@ -1,6 +1,9 @@
 # <div align="center">**_FrostBite_**
     
 <div align="center">
+    <img src="https://github.com/InsaneCoder789/Frostbite-1/blob/master/Frostbite.jpeg" height="450px" width="450px" />
+
+</div>
     
 
 
@@ -20,3 +23,7 @@ The Bot Uses:
 [`NekoBot API`](https://docs.nekobot.xyz) - For `Trump Tweet` Image Command.
 
 [`Mongo DB Atlas`](https://www.mongodb.com/cloud/atlas) - For Storing Warns Of Members.
+
+<a href="https://discord.gg/ppGBYSeSqb">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
