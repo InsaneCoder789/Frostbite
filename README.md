@@ -23,9 +23,9 @@ The Bot Uses:
 
 [`NekoBot API`](https://docs.nekobot.xyz) - For `Trump Tweet` Image Command.
 
-`[`Mongo DB Atlas`](https://www.mongodb.com/cloud/atlas) \n - For Storing Warns Of Members.
-                                                        \n- For Storing Of The Welcome Message And Channel
-                                                        \n - For Storing Of Levelling Xp so That The Level System can Work Properly`
+[`Mongo DB Atlas`](https://www.mongodb.com/cloud/atlas)  - For Storing Warns Of Members.
+                                                         For Storing Of The Welcome Message And Channel
+                                                       - For Storing Of Levelling Xp so That The Level System can Work Properly`
 
 <a href="https://discord.gg/ppGBYSeSqb">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
