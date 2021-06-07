@@ -9,7 +9,7 @@
 
 Frostbite Is A Discord Bot Made By [Rohan Chatterjee](https://github.com/InsaneCoder789) For Multi Purpose Server's 
     
- **Frostbite is a multi-functional Discord Bot With Moderation, Welcoming system, Leveling, Fun commands and much more! It Has World's Best Leveling System! It Has All Sorts Of Moderation Commands Like Kick, Ban, Mute, Channel delete/clone, Warn, etc. Currently, it doesn't Have Auto-Moderation, but we will add it soon! Hope You Enjoy Using This Cool Bot. <3**
+ **Frostbite is a Multi-functional Discord Bot With Moderation, Welcoming system, Leveling, Fun commands and much more! It Has World's Best Leveling System! It Has All Sorts Of Moderation Commands Like Kick, Ban, Mute, Channel delete/clone, Warn, etc. Currently, it doesn't Have Auto-Moderation, but we will add it soon! Hope You Enjoy Using This Cool Bot. <3**
 
 
 The Bot Uses:
